@@ -2,9 +2,9 @@
 
  
 
-**Student:** <Morozov Danila> 
+**Student:** Morozov Danila 
 
-**Student ID:** <S2312827> 
+**Student ID:** S2312827
 
 **Course:** Wireless and Radio Tech. (IT–IoT BSc) 
 
