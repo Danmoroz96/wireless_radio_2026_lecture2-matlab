@@ -14,11 +14,11 @@
 
 ## Contents
 
-- **A1:** Time domain + frequency domain (FFT) analysis of a multi-tone signal
+ **A1:** Time domain + frequency domain (FFT) analysis of a multi-tone signal
 
-- **A2:** Filtering to isolate desired frequency components
+ **A2:** Filtering to isolate desired frequency components
 
-- **A3:** Basic modulation (frequency translation idea)
+ **A3:** Basic modulation (frequency translation idea)
 
  
 
